@@ -183,7 +183,7 @@ cypress/videos/
 </div>
 
 
-## 📸 Screenshots
+## 📸 Screenshots - Salida por terminal al correr npx cypress run Cucumber
 ![Salida por terminal con Cucumber](assets/screenshots/practicaIntegralCucumber.jpg)
 
 
