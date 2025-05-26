@@ -1,1 +1,20 @@
-node_modules
+# Cypress
+cypress/screenshots/
+cypress/videos/
+allure-results/
+cypress/downloads/
+
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
