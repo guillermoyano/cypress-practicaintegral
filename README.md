@@ -174,11 +174,18 @@ cypress/videos/
 .DS_Store
 ```
 
-## 🎥 Demo del Proyecto
-[Insertar enlace al video de YouTube aquí]
+## 🎥 Demo Visual
+<div align="center">
+  <a href="https://youtu.be/NiTVavgMVq4">
+    <img src="https://img.youtube.com/vi/NiTVavgMVq4/0.jpg" alt="Cypress Demo" width="600">
+  </a>
+  <p><em>Video: Pruebas de Carrusel y Checkout</em></p>
+</div>
+
 
 ## 📸 Screenshots
-![Resultado en terminal de Cucumber](assets/screenshots/nombre-imagen.png)
+![Salida por terminal con Cucumber](assets/screenshots/practicaIntegralCucumber.jpg)
+
 
 ---
 **Desarrollado con Cypress + Cucumber para testing automatizado E2E**
